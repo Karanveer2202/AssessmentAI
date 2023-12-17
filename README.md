@@ -15,3 +15,4 @@ Then i worked on implementing the basic components:
 
   Task 2: 
   
+References: https://github.com/towardsautonomy/QAGAN 
