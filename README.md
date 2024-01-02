@@ -1,4 +1,4 @@
-**Familiarizing myself with Generative AI.**
+**ContloAI Assignment.**
 
 First, I understood the GPT-2 paper’s first 2 sections. I familiarized myself with the concepts of transform layers, multi-head self-attention mechanisms, etc. for a better working understanding of GPT-2.
 Then I worked on implementing the basic components: 
